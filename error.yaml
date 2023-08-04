@@ -1,0 +1,25 @@
+chatdaddy-service-transcoder:
+  messageWithSpecifiedNotFound:
+    title: message with specified not found
+    description: message with specified not found
+    httpStatusCode: 404
+  attachmentNotFound:
+    title: attachment not found
+    description: attachment not found
+    httpStatusCode: 404
+  attachmentIsNotEncrypted:
+    title: attachment is not encrypted
+    description: attachment is not encrypted
+    httpStatusCode: 400
+  invalidRequest:
+    title: Invalid request
+    description: Invalid request
+    httpStatusCode: 400
+  noToken:
+    title: No token
+    description: No token
+    httpStatusCode: 401
+  notFound:
+    title: Not Found
+    description: Not Found
+    httpStatusCode: 404
